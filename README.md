@@ -223,10 +223,10 @@ Punto de entrada que:
 
 ### Pasos de Instalación
 
-1. **Clonar o descargar el repositorio**
+1. **Clonar el repositorio desde GitHub**
    ```bash
-   git clone https://github.com/tu-usuario/vestia-ecommerce.git
-   cd vestia-ecommerce
+   git clone https://github.com/cocosette0105/ProyectoWeb.git
+   cd ProyectoWeb
    ```
 
 2. **Configurar API Key de Gemini**
